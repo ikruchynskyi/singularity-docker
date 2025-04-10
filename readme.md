@@ -1,4 +1,4 @@
-1. Clone your github keys to ssh directory
+1. Create 'ssh' directory and copy your github keys to it
 2. Build the image 
 ```
 docker compose build --no-cache app
